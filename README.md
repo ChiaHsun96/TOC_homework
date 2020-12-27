@@ -15,3 +15,6 @@
 		*  秀出fsm diagram 
 		
 任一階段都能輸入"m"回到功能選單選擇上面三者其一
+![demo](./l1.png)
+![demo](./l2.png)
+![demo](./l3.png)
