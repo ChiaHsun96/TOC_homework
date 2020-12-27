@@ -18,6 +18,5 @@
 
 ## image
 
-![demo](./l1.PNG)
 ![demo](./l2.PNG)
 ![demo](./l3.PNG)
