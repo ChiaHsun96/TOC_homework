@@ -1,9 +1,9 @@
 # TOChomework
 
-## Finite State Machine
+## 有限狀態機 Finite State Machine (FSM)
 ![fsm](./fsm.png)
 
-## Usage
+## 服務
 
 * user
 	* Input: "w"
