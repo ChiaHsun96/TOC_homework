@@ -21,3 +21,5 @@
 ![demo](./l2.PNG)
 ![demo](./l3.PNG)
 ![demo](./l1.PNG)
+
+## 初始狀態
